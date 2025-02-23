@@ -5,14 +5,13 @@ personajes fascinantes que guiarán a los jugadores en su aprendizaje. Cada nive
 juego está diseñado para combinar diversión y educación, permitiendo que los estudiantes adquieran conocimientos de manera natural mientras exploran, 
 resuelven problemas y superan obstáculos.
 modo aventura para garantizar una experiencia de juego fluida y atractiva.
-El protagonista de esta aventura es [NOMBRE], un/a [DESCRIPCIÓN FÍSICA Y DE
-PERSONALIDAD]. [NOMBRE] es un/a [ROL] que ha sido elegido/a para una misión
-única: [OBJETIVO PRINCIPAL]. Con su [CARACTERÍSTICA ESPECIAL], [NOMBRE]
+El protagonista de esta aventura es IUDIGITALITO, un/a muy atrevito y entusiasta estudiante de robotica. IUDIGITALITO es un/a gran ebtusiasta de que los humanos deben manejar el mundo y no las ovejas que ha sido elegido/a para una misión
+única: encontrar la forma de sacar las ovejas del poder. Con su pensamiento superrapido que le permite procesar muchas acciones en su cerebro al mismo tiempo, superpensar
 deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a
-los jugadores conceptos clave de [MATERIA].
-El jugador podrá [MECÁNICA 1], para avanzar deberá [MECÁNICA 2] y los desafíos
-incluirán [TIPO DE DESAFÍOS]
-Los estudiantes avanzarán mediante [SISTEMA]. Cada nivel representa un problema matematico, y los jugadores recibirán retroalimentación inmediata sobre su
+los jugadores conceptos clave de robotica.
+El jugador podrá lectura, para avanzar deberá escritura y los desafíos
+incluirán puzzles, adivinanzas, ejercicios matematicos.
+Los estudiantes avanzarán mediante puntos por ejercicio correcto y buen desempeño. Cada nivel representa un problema matematico, y los jugadores recibirán retroalimentación inmediata sobre su
 desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
 Los jugadores aprenderán hipotenusa mediante hipotenusas games. Se reforzará
 triangulos a través de triangulos cuadrados y las evaluaciones se realizarán mediante
